@@ -10,5 +10,5 @@
 * Allow for the user to ew balance and personal details
 
 
-# remove comment from img code where ever it it to upload img on the output 
+# remove comment from img code where ever it is to upload img on the output 
 # i have kept it in comment because i was getting error 
