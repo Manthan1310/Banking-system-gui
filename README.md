@@ -1,6 +1,6 @@
 # Banking-system-gui
-# Save the entire respo to your device to run it  
-# after register to view the file change its extention to txt then read it and again change it to orignal one 
+ Save the entire respo to your device to run it  
+ after register to view the file change its extention to txt then read it and again change it to orignal one 
 
 
 * Allow for the user to register an account
